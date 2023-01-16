@@ -24,7 +24,6 @@ public class Etudiant {
             notes[i]=clavier.nextDouble();
         }
         moyenne = CalculMoyenne();
-        System.out.println("passons a l'etudiant suivant ");
 
     }
     // la methode de calcul des moyennes
